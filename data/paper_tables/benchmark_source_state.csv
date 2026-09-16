@@ -1,0 +1,13 @@
+split,source,n,neither,camera_only,object_only,both
+train,ADT-LiteOffice,2825,1213,652,241,719
+train,HOT3D,346,0,207,0,139
+train,TACO-V1-allocentric,900,0,0,900,0
+train,AV2,929,37,391,109,392
+val,ADT-LiteOffice,480,192,94,90,104
+val,HOT3D,66,0,38,0,28
+val,TACO-V1-allocentric,174,0,0,174,0
+val,AV2,480,108,168,36,168
+test,ADT-LiteOffice,480,219,85,85,91
+test,HOT3D,66,11,30,1,24
+test,TACO-V1-allocentric,174,0,0,174,0
+test,AV2,480,70,185,40,185

@@ -1,0 +1,47 @@
+{
+  "train": {
+    "n": 5000,
+    "states": {
+      "neither": 1250,
+      "camera_only": 1250,
+      "object_only": 1250,
+      "both": 1250
+    },
+    "sources": {
+      "ADT-LiteOffice": 2825,
+      "AV2": 929,
+      "HOT3D": 346,
+      "TACO-V1-allocentric": 900
+    }
+  },
+  "val": {
+    "n": 1200,
+    "states": {
+      "camera_only": 300,
+      "object_only": 300,
+      "both": 300,
+      "neither": 300
+    },
+    "sources": {
+      "ADT-LiteOffice": 480,
+      "HOT3D": 66,
+      "TACO-V1-allocentric": 174,
+      "AV2": 480
+    }
+  },
+  "test": {
+    "n": 1200,
+    "states": {
+      "neither": 300,
+      "camera_only": 300,
+      "object_only": 300,
+      "both": 300
+    },
+    "sources": {
+      "ADT-LiteOffice": 480,
+      "AV2": 480,
+      "HOT3D": 66,
+      "TACO-V1-allocentric": 174
+    }
+  }
+}

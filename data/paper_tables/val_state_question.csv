@@ -1,0 +1,13 @@
+state,kind,n
+neither,camera,100
+neither,object,100
+neither,joint,100
+camera_only,camera,100
+camera_only,object,100
+camera_only,joint,100
+object_only,camera,100
+object_only,object,100
+object_only,joint,100
+both,camera,100
+both,object,100
+both,joint,100

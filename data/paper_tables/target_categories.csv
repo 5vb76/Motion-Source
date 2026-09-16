@@ -1,0 +1,56 @@
+split,source,category,n
+test,ADT-LiteOffice,container,55
+test,ADT-LiteOffice,couch,85
+test,ADT-LiteOffice,cup,28
+test,ADT-LiteOffice,desk,2
+test,ADT-LiteOffice,door,91
+test,ADT-LiteOffice,door frame,2
+test,ADT-LiteOffice,side table,36
+test,ADT-LiteOffice,toy,93
+test,ADT-LiteOffice,wall,85
+test,ADT-LiteOffice,wall artwork,3
+test,AV2,BOX_TRUCK,25
+test,AV2,BUS,22
+test,AV2,REGULAR_VEHICLE,423
+test,AV2,TRUCK,8
+test,AV2,VEHICULAR_TRAILER,2
+test,HOT3D,UNMAPPED_SOURCE_SPECIFIC_ID,66
+test,TACO-V1-allocentric,UNMAPPED_SOURCE_SPECIFIC_ID,174
+train,ADT-LiteOffice,book,132
+train,ADT-LiteOffice,couch,726
+train,ADT-LiteOffice,cup,254
+train,ADT-LiteOffice,cutting board,102
+train,ADT-LiteOffice,desk,17
+train,ADT-LiteOffice,door,656
+train,ADT-LiteOffice,door frame,21
+train,ADT-LiteOffice,fork,151
+train,ADT-LiteOffice,play set,191
+train,ADT-LiteOffice,side table,360
+train,ADT-LiteOffice,spoon,130
+train,ADT-LiteOffice,wall artwork,85
+train,AV2,BOX_TRUCK,27
+train,AV2,BUS,16
+train,AV2,REGULAR_VEHICLE,842
+train,AV2,SCHOOL_BUS,7
+train,AV2,TRUCK,13
+train,AV2,TRUCK_CAB,9
+train,AV2,VEHICULAR_TRAILER,15
+train,HOT3D,UNMAPPED_SOURCE_SPECIFIC_ID,346
+train,TACO-V1-allocentric,UNMAPPED_SOURCE_SPECIFIC_ID,900
+val,ADT-LiteOffice,bottle,90
+val,ADT-LiteOffice,couch,116
+val,ADT-LiteOffice,desk,4
+val,ADT-LiteOffice,desk clock,104
+val,ADT-LiteOffice,door,110
+val,ADT-LiteOffice,door frame,20
+val,ADT-LiteOffice,side table,34
+val,ADT-LiteOffice,wall artwork,2
+val,AV2,BOX_TRUCK,12
+val,AV2,BUS,55
+val,AV2,REGULAR_VEHICLE,383
+val,AV2,SCHOOL_BUS,1
+val,AV2,TRUCK,16
+val,AV2,TRUCK_CAB,6
+val,AV2,VEHICULAR_TRAILER,7
+val,HOT3D,UNMAPPED_SOURCE_SPECIFIC_ID,66
+val,TACO-V1-allocentric,UNMAPPED_SOURCE_SPECIFIC_ID,174

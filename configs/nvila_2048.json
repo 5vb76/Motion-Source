@@ -1,0 +1,16 @@
+{
+  "family": "nvila_lite_8b",
+  "seed": 20260911,
+  "qa_n": 2048,
+  "updates": 256,
+  "accumulation": 8,
+  "source_n": 512,
+  "source_weight": 0.25,
+  "lr": 0.0001,
+  "weight_decay": 0.01,
+  "scheduler": "Original matched 256-step warmup5pct cosine floor0.1",
+  "endpoint": "Fixed256; dev650 and val914 reporting only",
+  "arm": "source_component_update_only",
+  "grounder_policy": "NVILA-specific width3584 rank64 router; same37fit/8holdout videos,200steps as Molmo; frozen for QA; rebuilt official training frames",
+  "source_policy": "New benchmark train only,512 rows,four-state balanced; old four-line source objective retained to match locked QA adaptation recipe"
+}

@@ -1,0 +1,21 @@
+{
+  "inherited_v1_provenance": {
+    "path": "/root/story2_camera_object_motion/data/benchmarks/general_motion_benchmark_v1/release/physical_provenance.json",
+    "sha256": "feacbf7714b8a192383b1a7ab5a256a9d8d3097b863f1ff8eb854f6bd1fbfb69"
+  },
+  "native_test_source_registry": {
+    "path": "/root/story2_camera_object_motion/data/benchmarks/general_motion_benchmark_v2/release/native_source_registry.json",
+    "sha256": "e1643a701ff0b1fa0c33456fc86f4f95639eb297797f1349295464f5972b0df1"
+  },
+  "ADT_full_window_scan": {
+    "path": "/root/story2_camera_object_motion/data/benchmarks/general_motion_benchmark_v2/candidates/adt_testA_scan_receipt.json",
+    "sha256": "045da4ba5443040cc0b8190ea7722a218cf5659df408634830694865373b6f29"
+  },
+  "selection_protocol": {
+    "path": "/root/story2_camera_object_motion/data/benchmarks/general_motion_benchmark_v2/candidates/selection_protocol.json",
+    "sha256": "262760adbe507b8687dea8f27c51802de6f10e6feb62390b47978eb2aa6df5b4"
+  },
+  "label_derivation": "Cached in dataset preprocessing, using full native physical trajectory windows and source-specific historical thresholds; 20-frame trajectories are aligned exports, not a new label thresholding basis.",
+  "model_gt_isolation": "load_input returns video, target boxes, timestamps, prompt only. GT and cached labels stay outside forward.",
+  "human_animal_policy": "Only rigid object / AV2 vehicle targets included. Nonrigid human/animal limb/head-only motion targets excluded."
+}

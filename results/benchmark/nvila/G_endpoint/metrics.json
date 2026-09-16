@@ -1,0 +1,42 @@
+{
+  "n": 1200,
+  "joint_state_accuracy": 0.6266666666666667,
+  "source_macro_accuracy": 0.740530303030303,
+  "state_macro_recall": 0.6266666666666667,
+  "minimum_state_recall": 0.44,
+  "strict_four_line_exact": 0.6241666666666666,
+  "camera_accuracy": 0.7491666666666666,
+  "object_accuracy": 0.8458333333333333,
+  "span_nll": 0.09920061008810686,
+  "per_source": {
+    "ADT-LiteOffice": {
+      "n": 480,
+      "joint_state_accuracy": 0.6083333333333333,
+      "strict_four_line_exact": 0.6083333333333333
+    },
+    "AV2": {
+      "n": 480,
+      "joint_state_accuracy": 0.475,
+      "strict_four_line_exact": 0.47291666666666665
+    },
+    "HOT3D": {
+      "n": 66,
+      "joint_state_accuracy": 0.8787878787878788,
+      "strict_four_line_exact": 0.8787878787878788
+    },
+    "TACO-V1-allocentric": {
+      "n": 174,
+      "joint_state_accuracy": 1.0,
+      "strict_four_line_exact": 0.9885057471264368
+    }
+  },
+  "recall_by_state": {
+    "neither": 0.66,
+    "camera_only": 0.6233333333333333,
+    "object_only": 0.7833333333333333,
+    "both": 0.44
+  },
+  "parse_failures": 4,
+  "evaluation": "G_endpoint_before_R",
+  "seconds": 11367.528837043792
+}

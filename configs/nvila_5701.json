@@ -1,0 +1,19 @@
+{
+  "family": "nvila_lite_8b",
+  "seed": 20260911,
+  "qa_n": 3653,
+  "updates": 457,
+  "accumulation": 8,
+  "source_n": 914,
+  "source_weight": 0.25,
+  "lr": 1e-05,
+  "weight_decay": 0.01,
+  "scheduler": "Continue inherited terminal learning rate 1e-5, no scheduler restart",
+  "endpoint": "Fixed remainder3653 then official val914; no checkpoint selection",
+  "arm": "source_component_update_only",
+  "grounder_policy": "NVILA-specific width3584 rank64 router; same37fit/8holdout videos,200steps as Molmo; frozen for QA; rebuilt official training frames",
+  "source_policy": "Same balanced source512 pool repeated deterministically for914 source presentations; existing source supervision unchanged",
+  "total_unique_qa": 5701,
+  "qa_already_seen": 2048,
+  "optimizer_policy": "Restore AdamW state and RNG from completed2048 checkpoint; keep LR at its final value"
+}

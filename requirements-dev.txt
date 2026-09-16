@@ -1,0 +1,3 @@
+# Formatting and CPU regression checks; model environments are separate.
+ruff==0.15.7
+pytest>=7

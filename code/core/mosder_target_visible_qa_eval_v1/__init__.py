@@ -1,0 +1,53 @@
+"""Target-visible randomized four-choice QA evaluation contracts."""
+
+from .contract import (
+    LETTERS,
+    OVERLAY_CONTRACT_SHA256,
+    PROMPT_CONTRACT_SHA256,
+    QA_PROMPT_TEMPLATE,
+    QA_PROMPT_TEMPLATE_SHA256,
+    RED_RGB,
+    SCORER_SEMANTIC_SHA256,
+    SEED,
+    STATE_FACTORS,
+    STATE_ORDER,
+    LetterDecision,
+    OverlayAudit,
+    QAContractError,
+    choose_from_letter_logits,
+    option_mapping,
+    overlay_frames,
+    render_prompt,
+)
+from .metrics import (
+    ADT_PRIMARY_SOURCE,
+    EvaluationRecord,
+    MetricContractError,
+    record_from_mapping,
+    summarize_records,
+)
+
+__all__ = [
+    "ADT_PRIMARY_SOURCE",
+    "EvaluationRecord",
+    "LETTERS",
+    "LetterDecision",
+    "MetricContractError",
+    "OverlayAudit",
+    "OVERLAY_CONTRACT_SHA256",
+    "PROMPT_CONTRACT_SHA256",
+    "QAContractError",
+    "QA_PROMPT_TEMPLATE",
+    "QA_PROMPT_TEMPLATE_SHA256",
+    "RED_RGB",
+    "SCORER_SEMANTIC_SHA256",
+    "SEED",
+    "STATE_FACTORS",
+    "STATE_ORDER",
+    "choose_from_letter_logits",
+    "option_mapping",
+    "overlay_frames",
+    "record_from_mapping",
+    "render_prompt",
+    "summarize_records",
+]

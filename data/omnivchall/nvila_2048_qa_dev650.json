@@ -1,0 +1,3902 @@
+[
+  {
+    "qa_id": "s_ynqa_id:17",
+    "video_id": "11007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:18",
+    "video_id": "11007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:19",
+    "video_id": "11007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:20",
+    "video_id": "11007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:33",
+    "video_id": "11011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:34",
+    "video_id": "11011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:35",
+    "video_id": "11011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:78",
+    "video_id": "11028",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:79",
+    "video_id": "11028",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:80",
+    "video_id": "11028",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:81",
+    "video_id": "11028",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:82",
+    "video_id": "11028",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:104",
+    "video_id": "11039",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:105",
+    "video_id": "11039",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:106",
+    "video_id": "11039",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:107",
+    "video_id": "11039",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:108",
+    "video_id": "11039",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:114",
+    "video_id": "11042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:115",
+    "video_id": "11042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:116",
+    "video_id": "11042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:117",
+    "video_id": "11042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:212",
+    "video_id": "12006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:213",
+    "video_id": "12006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:214",
+    "video_id": "12006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:215",
+    "video_id": "12006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:216",
+    "video_id": "12007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:217",
+    "video_id": "12007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:218",
+    "video_id": "12007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:219",
+    "video_id": "12007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:347",
+    "video_id": "12052",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:348",
+    "video_id": "12052",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:349",
+    "video_id": "12052",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:370",
+    "video_id": "12060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:371",
+    "video_id": "12060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:372",
+    "video_id": "12060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:373",
+    "video_id": "12060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:399",
+    "video_id": "12074",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:400",
+    "video_id": "12074",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:401",
+    "video_id": "12074",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:402",
+    "video_id": "12074",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:498",
+    "video_id": "13019",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:499",
+    "video_id": "13019",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:500",
+    "video_id": "13019",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:533",
+    "video_id": "13030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:534",
+    "video_id": "13030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:551",
+    "video_id": "14005",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:552",
+    "video_id": "14005",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:553",
+    "video_id": "14005",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:554",
+    "video_id": "14005",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:555",
+    "video_id": "14005",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:556",
+    "video_id": "14005",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:585",
+    "video_id": "14015",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:586",
+    "video_id": "14015",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:587",
+    "video_id": "14015",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:588",
+    "video_id": "14015",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:604",
+    "video_id": "14022",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:605",
+    "video_id": "14022",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:606",
+    "video_id": "14022",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:607",
+    "video_id": "14022",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:608",
+    "video_id": "14022",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:609",
+    "video_id": "14022",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:610",
+    "video_id": "14023",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:611",
+    "video_id": "14023",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:612",
+    "video_id": "14023",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:613",
+    "video_id": "14023",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:614",
+    "video_id": "14023",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:686",
+    "video_id": "15008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:687",
+    "video_id": "15008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:688",
+    "video_id": "15008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:689",
+    "video_id": "15008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:690",
+    "video_id": "15008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:691",
+    "video_id": "15008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:692",
+    "video_id": "15008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:728",
+    "video_id": "15021",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:729",
+    "video_id": "15021",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:730",
+    "video_id": "15021",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:731",
+    "video_id": "15021",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:732",
+    "video_id": "15021",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:733",
+    "video_id": "15021",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:779",
+    "video_id": "15031",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:780",
+    "video_id": "15031",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:781",
+    "video_id": "15031",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:782",
+    "video_id": "15031",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:838",
+    "video_id": "15047",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:839",
+    "video_id": "15047",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:840",
+    "video_id": "15047",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:841",
+    "video_id": "15047",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:842",
+    "video_id": "15047",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:878",
+    "video_id": "16003",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:879",
+    "video_id": "16003",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:880",
+    "video_id": "16003",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:900",
+    "video_id": "16010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:901",
+    "video_id": "16010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:902",
+    "video_id": "16010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:903",
+    "video_id": "16010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:954",
+    "video_id": "16030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:955",
+    "video_id": "16030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:956",
+    "video_id": "16030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:957",
+    "video_id": "16030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1031",
+    "video_id": "16051",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1032",
+    "video_id": "16051",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1033",
+    "video_id": "16051",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1034",
+    "video_id": "16051",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1035",
+    "video_id": "16051",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1036",
+    "video_id": "16051",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1071",
+    "video_id": "16061",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1072",
+    "video_id": "16061",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1073",
+    "video_id": "16061",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1074",
+    "video_id": "16061",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1075",
+    "video_id": "16061",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1076",
+    "video_id": "16062",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1077",
+    "video_id": "16062",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1078",
+    "video_id": "16062",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1079",
+    "video_id": "16062",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1080",
+    "video_id": "16062",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1081",
+    "video_id": "16062",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1082",
+    "video_id": "16062",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1160",
+    "video_id": "17014",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1161",
+    "video_id": "17014",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1162",
+    "video_id": "17014",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1163",
+    "video_id": "17014",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1219",
+    "video_id": "17030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1220",
+    "video_id": "17030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1221",
+    "video_id": "17030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1222",
+    "video_id": "17030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1223",
+    "video_id": "17030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1303",
+    "video_id": "01008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1304",
+    "video_id": "01008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1305",
+    "video_id": "01008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1306",
+    "video_id": "01008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1307",
+    "video_id": "01008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1311",
+    "video_id": "01010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1312",
+    "video_id": "01010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1313",
+    "video_id": "01010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1314",
+    "video_id": "01010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1315",
+    "video_id": "01010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1316",
+    "video_id": "01011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1317",
+    "video_id": "01011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1318",
+    "video_id": "01011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1319",
+    "video_id": "01011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1320",
+    "video_id": "01011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1327",
+    "video_id": "01015",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1328",
+    "video_id": "01015",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1329",
+    "video_id": "01015",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1415",
+    "video_id": "01056",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1424",
+    "video_id": "01060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1425",
+    "video_id": "01060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1426",
+    "video_id": "01060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1427",
+    "video_id": "01060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1428",
+    "video_id": "01060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1429",
+    "video_id": "01060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1524",
+    "video_id": "01100",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1525",
+    "video_id": "01100",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1575",
+    "video_id": "01128",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1576",
+    "video_id": "01128",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1577",
+    "video_id": "01129",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1578",
+    "video_id": "01129",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1579",
+    "video_id": "01129",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1626",
+    "video_id": "01154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1627",
+    "video_id": "01154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1628",
+    "video_id": "01154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1629",
+    "video_id": "01154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1630",
+    "video_id": "01154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1658",
+    "video_id": "01168",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1659",
+    "video_id": "01168",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1660",
+    "video_id": "01168",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1661",
+    "video_id": "01168",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1665",
+    "video_id": "01170",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1666",
+    "video_id": "01170",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1667",
+    "video_id": "01170",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1708",
+    "video_id": "01198",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1709",
+    "video_id": "01198",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1710",
+    "video_id": "01198",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1718",
+    "video_id": "01202",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1719",
+    "video_id": "01202",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1720",
+    "video_id": "01202",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1721",
+    "video_id": "01202",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1727",
+    "video_id": "01208",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1728",
+    "video_id": "01208",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1729",
+    "video_id": "01208",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1730",
+    "video_id": "01208",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1789",
+    "video_id": "02006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1790",
+    "video_id": "02006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1791",
+    "video_id": "02006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1826",
+    "video_id": "02030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1827",
+    "video_id": "02030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1828",
+    "video_id": "02030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1829",
+    "video_id": "02030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1830",
+    "video_id": "02032",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1831",
+    "video_id": "02032",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1832",
+    "video_id": "02032",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1833",
+    "video_id": "02032",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1834",
+    "video_id": "02032",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1844",
+    "video_id": "02036",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1845",
+    "video_id": "02036",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1846",
+    "video_id": "02036",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1856",
+    "video_id": "02042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1857",
+    "video_id": "02042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1858",
+    "video_id": "02042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1859",
+    "video_id": "02042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1883",
+    "video_id": "02057",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1884",
+    "video_id": "02057",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1885",
+    "video_id": "02057",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1936",
+    "video_id": "02104",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1937",
+    "video_id": "02104",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1938",
+    "video_id": "02104",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1939",
+    "video_id": "02104",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1971",
+    "video_id": "02118",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1972",
+    "video_id": "02118",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:1973",
+    "video_id": "02118",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2101",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2102",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2103",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2104",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2105",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2106",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2132",
+    "video_id": "02183",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2133",
+    "video_id": "02183",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2160",
+    "video_id": "02213",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2184",
+    "video_id": "03126",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2185",
+    "video_id": "03126",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2192",
+    "video_id": "03154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2193",
+    "video_id": "03154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2194",
+    "video_id": "03154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2195",
+    "video_id": "03154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2196",
+    "video_id": "03154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2197",
+    "video_id": "03154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2198",
+    "video_id": "03154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2199",
+    "video_id": "03154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2205",
+    "video_id": "03221",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2206",
+    "video_id": "03221",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2207",
+    "video_id": "03221",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_ynqa_id:2264",
+    "video_id": "03450",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:17",
+    "video_id": "11007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:18",
+    "video_id": "11007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:19",
+    "video_id": "11007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:20",
+    "video_id": "11007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:21",
+    "video_id": "11007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:31",
+    "video_id": "11011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:32",
+    "video_id": "11011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:33",
+    "video_id": "11011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:65",
+    "video_id": "11028",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:66",
+    "video_id": "11028",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:67",
+    "video_id": "11028",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:80",
+    "video_id": "11039",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:81",
+    "video_id": "11039",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:83",
+    "video_id": "11042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:84",
+    "video_id": "11042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:85",
+    "video_id": "11042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:86",
+    "video_id": "11042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:153",
+    "video_id": "12006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:154",
+    "video_id": "12006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:155",
+    "video_id": "12006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:156",
+    "video_id": "12006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:157",
+    "video_id": "12007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:158",
+    "video_id": "12007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:159",
+    "video_id": "12007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:237",
+    "video_id": "12052",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:238",
+    "video_id": "12052",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:256",
+    "video_id": "12060",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:257",
+    "video_id": "12060",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:276",
+    "video_id": "12074",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:277",
+    "video_id": "12074",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:278",
+    "video_id": "12074",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:338",
+    "video_id": "13019",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:339",
+    "video_id": "13019",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:340",
+    "video_id": "13019",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:363",
+    "video_id": "13030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:382",
+    "video_id": "14005",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:383",
+    "video_id": "14005",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:384",
+    "video_id": "14005",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:403",
+    "video_id": "14015",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:404",
+    "video_id": "14015",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:415",
+    "video_id": "14022",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:416",
+    "video_id": "14022",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:417",
+    "video_id": "14022",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:418",
+    "video_id": "14023",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:419",
+    "video_id": "14023",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:420",
+    "video_id": "14023",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:455",
+    "video_id": "15008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:456",
+    "video_id": "15008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:457",
+    "video_id": "15008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:458",
+    "video_id": "15008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:483",
+    "video_id": "15021",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:484",
+    "video_id": "15021",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:509",
+    "video_id": "15031",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:510",
+    "video_id": "15031",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:511",
+    "video_id": "15031",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:540",
+    "video_id": "15047",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:541",
+    "video_id": "15047",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:542",
+    "video_id": "15047",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:554",
+    "video_id": "16003",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:571",
+    "video_id": "16010",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:572",
+    "video_id": "16010",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:601",
+    "video_id": "16030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:602",
+    "video_id": "16030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:603",
+    "video_id": "16030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:642",
+    "video_id": "16051",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:643",
+    "video_id": "16051",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:644",
+    "video_id": "16051",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:663",
+    "video_id": "16061",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:664",
+    "video_id": "16062",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:665",
+    "video_id": "16062",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:666",
+    "video_id": "16062",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:706",
+    "video_id": "17014",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:707",
+    "video_id": "17014",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:708",
+    "video_id": "17014",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:709",
+    "video_id": "17014",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:737",
+    "video_id": "17030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:738",
+    "video_id": "17030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:787",
+    "video_id": "01008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:788",
+    "video_id": "01008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:789",
+    "video_id": "01008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:790",
+    "video_id": "01008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:795",
+    "video_id": "01010",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:796",
+    "video_id": "01010",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:797",
+    "video_id": "01010",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:798",
+    "video_id": "01010",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:799",
+    "video_id": "01011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:800",
+    "video_id": "01011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:801",
+    "video_id": "01011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:802",
+    "video_id": "01011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:806",
+    "video_id": "01015",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:807",
+    "video_id": "01015",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:884",
+    "video_id": "01056",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:885",
+    "video_id": "01056",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:891",
+    "video_id": "01060",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:967",
+    "video_id": "01100",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:968",
+    "video_id": "01100",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1006",
+    "video_id": "01128",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1007",
+    "video_id": "01128",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1008",
+    "video_id": "01128",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1009",
+    "video_id": "01128",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1010",
+    "video_id": "01128",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1011",
+    "video_id": "01129",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1012",
+    "video_id": "01129",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1013",
+    "video_id": "01129",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1014",
+    "video_id": "01129",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1015",
+    "video_id": "01129",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1055",
+    "video_id": "01154",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1093",
+    "video_id": "01168",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1095",
+    "video_id": "01170",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1096",
+    "video_id": "01170",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1097",
+    "video_id": "01170",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1098",
+    "video_id": "01170",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1153",
+    "video_id": "01198",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1160",
+    "video_id": "01202",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1161",
+    "video_id": "01202",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1162",
+    "video_id": "01202",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1163",
+    "video_id": "01202",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1164",
+    "video_id": "01202",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1168",
+    "video_id": "01208",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1169",
+    "video_id": "01208",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1170",
+    "video_id": "01208",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1171",
+    "video_id": "01208",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1172",
+    "video_id": "01208",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1204",
+    "video_id": "02006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1205",
+    "video_id": "02006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1206",
+    "video_id": "02006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1207",
+    "video_id": "02006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1245",
+    "video_id": "02030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1246",
+    "video_id": "02032",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1247",
+    "video_id": "02032",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1248",
+    "video_id": "02032",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1249",
+    "video_id": "02032",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1260",
+    "video_id": "02036",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1261",
+    "video_id": "02036",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1262",
+    "video_id": "02036",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1263",
+    "video_id": "02036",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1273",
+    "video_id": "02042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1274",
+    "video_id": "02042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1275",
+    "video_id": "02042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1276",
+    "video_id": "02042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1313",
+    "video_id": "02057",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1314",
+    "video_id": "02057",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1359",
+    "video_id": "02104",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1360",
+    "video_id": "02104",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1361",
+    "video_id": "02104",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1362",
+    "video_id": "02104",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1384",
+    "video_id": "02118",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1385",
+    "video_id": "02118",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1386",
+    "video_id": "02118",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1387",
+    "video_id": "02118",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1388",
+    "video_id": "02118",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1389",
+    "video_id": "02118",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1448",
+    "video_id": "02173",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1449",
+    "video_id": "02173",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1450",
+    "video_id": "02173",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1451",
+    "video_id": "02173",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1452",
+    "video_id": "02173",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1453",
+    "video_id": "02173",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1485",
+    "video_id": "02183",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1486",
+    "video_id": "02183",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1507",
+    "video_id": "02213",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1508",
+    "video_id": "02213",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1528",
+    "video_id": "03126",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1529",
+    "video_id": "03126",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1530",
+    "video_id": "03126",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1531",
+    "video_id": "03126",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1537",
+    "video_id": "03154",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1538",
+    "video_id": "03154",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1542",
+    "video_id": "03221",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1543",
+    "video_id": "03221",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1544",
+    "video_id": "03221",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1545",
+    "video_id": "03221",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "s_mcqa_id:1584",
+    "video_id": "03450",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:9",
+    "video_id": "11007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:10",
+    "video_id": "11007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:20",
+    "video_id": "11011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:21",
+    "video_id": "11011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:22",
+    "video_id": "11011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:46",
+    "video_id": "11028",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:47",
+    "video_id": "11028",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:61",
+    "video_id": "11039",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:62",
+    "video_id": "11039",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:65",
+    "video_id": "11042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:66",
+    "video_id": "11042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:115",
+    "video_id": "12006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:116",
+    "video_id": "12006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:117",
+    "video_id": "12007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:118",
+    "video_id": "12007",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:202",
+    "video_id": "12052",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:203",
+    "video_id": "12052",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:218",
+    "video_id": "12060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:219",
+    "video_id": "12060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:220",
+    "video_id": "12060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:238",
+    "video_id": "12074",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:239",
+    "video_id": "12074",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:288",
+    "video_id": "13019",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:289",
+    "video_id": "13019",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:290",
+    "video_id": "13019",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:291",
+    "video_id": "13019",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:316",
+    "video_id": "13030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:317",
+    "video_id": "13030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:318",
+    "video_id": "13030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:319",
+    "video_id": "13030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:338",
+    "video_id": "14005",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:339",
+    "video_id": "14005",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:361",
+    "video_id": "14015",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:369",
+    "video_id": "14022",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:370",
+    "video_id": "14022",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:371",
+    "video_id": "14023",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:372",
+    "video_id": "14023",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:373",
+    "video_id": "14023",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:374",
+    "video_id": "14023",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:416",
+    "video_id": "15008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:417",
+    "video_id": "15008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:418",
+    "video_id": "15008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:441",
+    "video_id": "15021",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:442",
+    "video_id": "15021",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:443",
+    "video_id": "15021",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:470",
+    "video_id": "15031",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:471",
+    "video_id": "15031",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:512",
+    "video_id": "15047",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:513",
+    "video_id": "15047",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:531",
+    "video_id": "16003",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:539",
+    "video_id": "16010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:540",
+    "video_id": "16010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:575",
+    "video_id": "16030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:576",
+    "video_id": "16030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:577",
+    "video_id": "16030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:619",
+    "video_id": "16051",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:620",
+    "video_id": "16051",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:621",
+    "video_id": "16051",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:632",
+    "video_id": "16061",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:633",
+    "video_id": "16061",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:634",
+    "video_id": "16062",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:635",
+    "video_id": "16062",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:662",
+    "video_id": "17014",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:663",
+    "video_id": "17014",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:687",
+    "video_id": "17030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:688",
+    "video_id": "17030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:725",
+    "video_id": "01008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:726",
+    "video_id": "01008",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:728",
+    "video_id": "01010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:729",
+    "video_id": "01010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:730",
+    "video_id": "01010",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:731",
+    "video_id": "01011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:732",
+    "video_id": "01011",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:735",
+    "video_id": "01015",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:736",
+    "video_id": "01015",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:808",
+    "video_id": "01056",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:809",
+    "video_id": "01056",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:814",
+    "video_id": "01060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:815",
+    "video_id": "01060",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:874",
+    "video_id": "01100",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:875",
+    "video_id": "01100",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:920",
+    "video_id": "01128",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:921",
+    "video_id": "01128",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:922",
+    "video_id": "01128",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:923",
+    "video_id": "01128",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:924",
+    "video_id": "01129",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:925",
+    "video_id": "01129",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:926",
+    "video_id": "01129",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:927",
+    "video_id": "01129",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:975",
+    "video_id": "01154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:976",
+    "video_id": "01154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:977",
+    "video_id": "01154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:978",
+    "video_id": "01154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1019",
+    "video_id": "01168",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1020",
+    "video_id": "01168",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1022",
+    "video_id": "01170",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1023",
+    "video_id": "01170",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1064",
+    "video_id": "01198",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1065",
+    "video_id": "01198",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1066",
+    "video_id": "01198",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1067",
+    "video_id": "01198",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1078",
+    "video_id": "01202",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1079",
+    "video_id": "01202",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1084",
+    "video_id": "01208",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1085",
+    "video_id": "01208",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1121",
+    "video_id": "02006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1122",
+    "video_id": "02006",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1141",
+    "video_id": "02030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1142",
+    "video_id": "02030",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1143",
+    "video_id": "02032",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1144",
+    "video_id": "02032",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1150",
+    "video_id": "02036",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1151",
+    "video_id": "02036",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1159",
+    "video_id": "02042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1160",
+    "video_id": "02042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1161",
+    "video_id": "02042",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1183",
+    "video_id": "02057",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1184",
+    "video_id": "02057",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1237",
+    "video_id": "02104",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1238",
+    "video_id": "02104",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1239",
+    "video_id": "02104",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1256",
+    "video_id": "02118",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1326",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1327",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1328",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1329",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1330",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1331",
+    "video_id": "02173",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1353",
+    "video_id": "02183",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1371",
+    "video_id": "02213",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1382",
+    "video_id": "03126",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1386",
+    "video_id": "03154",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1393",
+    "video_id": "03221",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1394",
+    "video_id": "03221",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1434",
+    "video_id": "03450",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1435",
+    "video_id": "03450",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_ynqa_id:1436",
+    "video_id": "03450",
+    "question_type": "ynqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:17",
+    "video_id": "11007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:18",
+    "video_id": "11007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:19",
+    "video_id": "11007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:25",
+    "video_id": "11011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:26",
+    "video_id": "11011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:27",
+    "video_id": "11011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:52",
+    "video_id": "11028",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:53",
+    "video_id": "11028",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:62",
+    "video_id": "11039",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:65",
+    "video_id": "11042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:106",
+    "video_id": "12006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:107",
+    "video_id": "12007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:108",
+    "video_id": "12007",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:166",
+    "video_id": "12052",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:167",
+    "video_id": "12052",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:168",
+    "video_id": "12052",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:182",
+    "video_id": "12060",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:197",
+    "video_id": "12074",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:198",
+    "video_id": "12074",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:235",
+    "video_id": "13019",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:248",
+    "video_id": "13030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:259",
+    "video_id": "14005",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:270",
+    "video_id": "14015",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:271",
+    "video_id": "14015",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:276",
+    "video_id": "14022",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:277",
+    "video_id": "14022",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:278",
+    "video_id": "14023",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:279",
+    "video_id": "14023",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:280",
+    "video_id": "14023",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:313",
+    "video_id": "15008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:328",
+    "video_id": "15021",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:329",
+    "video_id": "15021",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:340",
+    "video_id": "15031",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:355",
+    "video_id": "15047",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:364",
+    "video_id": "16003",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:374",
+    "video_id": "16010",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:393",
+    "video_id": "16030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:417",
+    "video_id": "16051",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:437",
+    "video_id": "16061",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:438",
+    "video_id": "16061",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:439",
+    "video_id": "16062",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:440",
+    "video_id": "16062",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:441",
+    "video_id": "16062",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:479",
+    "video_id": "17014",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:480",
+    "video_id": "17014",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:481",
+    "video_id": "17014",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:499",
+    "video_id": "17030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:537",
+    "video_id": "01008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:538",
+    "video_id": "01008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:539",
+    "video_id": "01008",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:543",
+    "video_id": "01010",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:544",
+    "video_id": "01010",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:545",
+    "video_id": "01010",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:546",
+    "video_id": "01011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:547",
+    "video_id": "01011",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:549",
+    "video_id": "01015",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:550",
+    "video_id": "01015",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:551",
+    "video_id": "01015",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:610",
+    "video_id": "01056",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:615",
+    "video_id": "01060",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:616",
+    "video_id": "01060",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:617",
+    "video_id": "01060",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:618",
+    "video_id": "01060",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:686",
+    "video_id": "01100",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:687",
+    "video_id": "01100",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:708",
+    "video_id": "01128",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:709",
+    "video_id": "01128",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:710",
+    "video_id": "01129",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:734",
+    "video_id": "01154",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:753",
+    "video_id": "01168",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:754",
+    "video_id": "01168",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:757",
+    "video_id": "01170",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:785",
+    "video_id": "01198",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:791",
+    "video_id": "01202",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:792",
+    "video_id": "01202",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:793",
+    "video_id": "01202",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:797",
+    "video_id": "01208",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:812",
+    "video_id": "02006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:813",
+    "video_id": "02006",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:827",
+    "video_id": "02030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:828",
+    "video_id": "02030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:829",
+    "video_id": "02030",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:830",
+    "video_id": "02032",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:831",
+    "video_id": "02032",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:837",
+    "video_id": "02036",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:838",
+    "video_id": "02036",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:846",
+    "video_id": "02042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:847",
+    "video_id": "02042",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:860",
+    "video_id": "02057",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:861",
+    "video_id": "02057",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:894",
+    "video_id": "02104",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:904",
+    "video_id": "02118",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:905",
+    "video_id": "02118",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:949",
+    "video_id": "02173",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:950",
+    "video_id": "02173",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:951",
+    "video_id": "02173",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:967",
+    "video_id": "02183",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:968",
+    "video_id": "02183",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:980",
+    "video_id": "02213",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:981",
+    "video_id": "02213",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:993",
+    "video_id": "03126",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:994",
+    "video_id": "03126",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:997",
+    "video_id": "03154",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:998",
+    "video_id": "03154",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:1004",
+    "video_id": "03221",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:1005",
+    "video_id": "03221",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  },
+  {
+    "qa_id": "m_mcqa_id:1031",
+    "video_id": "03450",
+    "question_type": "mcqa",
+    "optimization_partition": "dev"
+  }
+]

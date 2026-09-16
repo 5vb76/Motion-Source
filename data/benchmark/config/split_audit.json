@@ -1,0 +1,335 @@
+{
+  "pairs": {
+    "train__val": {
+      "case_id": {
+        "count": 0,
+        "examples": []
+      },
+      "physical_window_id": {
+        "count": 0,
+        "examples": []
+      },
+      "sequence": {
+        "count": 0,
+        "examples": []
+      },
+      "split_group": {
+        "count": 0,
+        "examples": []
+      },
+      "target_id": {
+        "count": 21,
+        "examples": [
+          [
+            "HOT3D",
+            "111305855142671"
+          ],
+          [
+            "HOT3D",
+            "117658302265452"
+          ],
+          [
+            "HOT3D",
+            "195041665639898"
+          ],
+          [
+            "HOT3D",
+            "204462113746498"
+          ],
+          [
+            "HOT3D",
+            "208243983021975"
+          ],
+          [
+            "HOT3D",
+            "223371871635142"
+          ],
+          [
+            "HOT3D",
+            "228358276546933"
+          ],
+          [
+            "HOT3D",
+            "249541253457812"
+          ],
+          [
+            "HOT3D",
+            "265826671143948"
+          ],
+          [
+            "HOT3D",
+            "4111539686391"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_024"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_030"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_035"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_068"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_070"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_072"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_076"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_079"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_090"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_164"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_195"
+          ]
+        ]
+      },
+      "any_identical_frame_content": {
+        "count": 0,
+        "scope": "native RGB pixel hash ADT/HOT; encoded JPEG hash AV2; video hash plus ordinal TACO"
+      },
+      "ADT_activity_family": {
+        "count": 0,
+        "examples": []
+      }
+    },
+    "train__test": {
+      "case_id": {
+        "count": 0,
+        "examples": []
+      },
+      "physical_window_id": {
+        "count": 0,
+        "examples": []
+      },
+      "sequence": {
+        "count": 0,
+        "examples": []
+      },
+      "split_group": {
+        "count": 0,
+        "examples": []
+      },
+      "target_id": {
+        "count": 29,
+        "examples": [
+          [
+            "HOT3D",
+            "111305855142671"
+          ],
+          [
+            "HOT3D",
+            "117658302265452"
+          ],
+          [
+            "HOT3D",
+            "125863066770940"
+          ],
+          [
+            "HOT3D",
+            "163340972252026"
+          ],
+          [
+            "HOT3D",
+            "171735388712249"
+          ],
+          [
+            "HOT3D",
+            "183136364331389"
+          ],
+          [
+            "HOT3D",
+            "195041665639898"
+          ],
+          [
+            "HOT3D",
+            "204462113746498"
+          ],
+          [
+            "HOT3D",
+            "223371871635142"
+          ],
+          [
+            "HOT3D",
+            "225397651484143"
+          ],
+          [
+            "HOT3D",
+            "228358276546933"
+          ],
+          [
+            "HOT3D",
+            "265826671143948"
+          ],
+          [
+            "HOT3D",
+            "270231216246839"
+          ],
+          [
+            "HOT3D",
+            "37787722328019"
+          ],
+          [
+            "HOT3D",
+            "4111539686391"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "target_020"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "target_021"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "target_049"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "target_052"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "target_135"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_024"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_033"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_034"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_053"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_063"
+          ]
+        ]
+      },
+      "any_identical_frame_content": {
+        "count": 0,
+        "scope": "native RGB pixel hash ADT/HOT; encoded JPEG hash AV2; video hash plus ordinal TACO"
+      },
+      "ADT_activity_family": {
+        "count": 0,
+        "examples": []
+      }
+    },
+    "val__test": {
+      "case_id": {
+        "count": 0,
+        "examples": []
+      },
+      "physical_window_id": {
+        "count": 0,
+        "examples": []
+      },
+      "sequence": {
+        "count": 0,
+        "examples": []
+      },
+      "split_group": {
+        "count": 0,
+        "examples": []
+      },
+      "target_id": {
+        "count": 12,
+        "examples": [
+          [
+            "HOT3D",
+            "111305855142671"
+          ],
+          [
+            "HOT3D",
+            "117658302265452"
+          ],
+          [
+            "HOT3D",
+            "195041665639898"
+          ],
+          [
+            "HOT3D",
+            "204462113746498"
+          ],
+          [
+            "HOT3D",
+            "223371871635142"
+          ],
+          [
+            "HOT3D",
+            "228358276546933"
+          ],
+          [
+            "HOT3D",
+            "265826671143948"
+          ],
+          [
+            "HOT3D",
+            "4111539686391"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_006"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_024"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_090"
+          ],
+          [
+            "TACO-V1-allocentric",
+            "tool_195"
+          ]
+        ]
+      },
+      "any_identical_frame_content": {
+        "count": 0,
+        "scope": "native RGB pixel hash ADT/HOT; encoded JPEG hash AV2; video hash plus ordinal TACO"
+      },
+      "ADT_activity_family": {
+        "count": 0,
+        "examples": []
+      }
+    }
+  },
+  "failures": [],
+  "AV2_unique_media_files_full_hash_verified": 9550,
+  "native_source_registry_full_hash_verified": 77,
+  "old_snapshots_unchanged": true,
+  "target_identity_note": "Shared HOT3D/TACO object identities are allowed; split is by capture group, not unseen object identity.",
+  "status": "PASS"
+}

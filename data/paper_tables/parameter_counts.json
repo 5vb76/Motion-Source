@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "source_core": 909596,
+    "camera_object_lora_and_gates": 1310720,
+    "decision": 2,
+    "shared_lora": 524288,
+    "explicit_residual": 270338
+  },
+  "total": 3014944,
+  "F": 2220318,
+  "G": 524288,
+  "R": 270338
+}

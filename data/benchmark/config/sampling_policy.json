@@ -1,0 +1,49 @@
+{
+  "method": "IPF source/state marginals; equal physical-window mass within source-state; replacement sampling",
+  "source_probabilities": {
+    "ADT-LiteOffice": 0.35,
+    "HOT3D": 0.15,
+    "TACO-V1-allocentric": 0.15,
+    "AV2": 0.35
+  },
+  "state_probabilities": {
+    "neither": 0.25,
+    "camera_only": 0.25,
+    "object_only": 0.25,
+    "both": 0.25
+  },
+  "source_state_probabilities": {
+    "ADT-LiteOffice": [
+      0.2196081114243176,
+      0.044035107489031514,
+      0.03276537503916682,
+      0.05359140604717523
+    ],
+    "HOT3D": [
+      0.0,
+      0.0861539152923183,
+      0.0,
+      0.0638460847075054
+    ],
+    "TACO-V1-allocentric": [
+      0.0,
+      0.0,
+      0.15000000000056857,
+      0.0
+    ],
+    "AV2": [
+      0.0303918885756824,
+      0.1198109772186502,
+      0.06723462496026462,
+      0.13256250924531937
+    ]
+  },
+  "states_order": [
+    "neither",
+    "camera_only",
+    "object_only",
+    "both"
+  ],
+  "effective_sample_size_per_draw_distribution": 2656.7492642835286,
+  "note": "Weights are opt-in. Loading train.jsonl sequentially does not rebalance. Repeated exposure of scarce AV2/HOT3D cells is expected; nominal count is not independent sample size."
+}

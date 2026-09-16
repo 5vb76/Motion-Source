@@ -1,0 +1,288 @@
+{
+  "metrics": {
+    "full": {
+      "n": 1200,
+      "correct": 1009,
+      "accuracy": 0.8408333333333333,
+      "camera_accuracy": 0.9816666666666667,
+      "object_accuracy": 0.8541666666666666,
+      "macro_f1": 0.8421823464340227,
+      "balanced_accuracy": 0.8408333333333333,
+      "parse_failures": 4,
+      "per_source": {
+        "ADT-LiteOffice": {
+          "n": 480,
+          "accuracy": 0.9708333333333333
+        },
+        "AV2": {
+          "n": 480,
+          "accuracy": 0.6520833333333333
+        },
+        "HOT3D": {
+          "n": 66,
+          "accuracy": 0.8484848484848485
+        },
+        "TACO-V1-allocentric": {
+          "n": 174,
+          "accuracy": 1.0
+        }
+      },
+      "source_macro_accuracy": 0.8678503787878789,
+      "per_state": {
+        "neither": {
+          "support": 300,
+          "recall": 0.8066666666666666,
+          "precision": 0.952755905511811,
+          "f1": 0.8736462093862816
+        },
+        "camera_only": {
+          "support": 300,
+          "recall": 0.7666666666666667,
+          "precision": 0.8363636363636363,
+          "f1": 0.8
+        },
+        "object_only": {
+          "support": 300,
+          "recall": 0.9333333333333333,
+          "precision": 0.8333333333333334,
+          "f1": 0.8805031446540881
+        },
+        "both": {
+          "support": 300,
+          "recall": 0.8566666666666667,
+          "precision": 0.7764350453172205,
+          "f1": 0.8145800316957211
+        }
+      },
+      "confusion": {
+        "neither": {
+          "neither": 242,
+          "camera_only": 5,
+          "object_only": 51,
+          "both": 0,
+          "__invalid__": 2
+        },
+        "camera_only": {
+          "neither": 1,
+          "camera_only": 230,
+          "object_only": 0,
+          "both": 69,
+          "__invalid__": 0
+        },
+        "object_only": {
+          "neither": 11,
+          "camera_only": 2,
+          "object_only": 280,
+          "both": 5,
+          "__invalid__": 2
+        },
+        "both": {
+          "neither": 0,
+          "camera_only": 38,
+          "object_only": 5,
+          "both": 257,
+          "__invalid__": 0
+        }
+      },
+      "weights_unchanged": true,
+      "protocol": "four-field generate then strict parse; fixed R endpoint",
+      "seconds_this_attempt": 0.01010105013847351
+    },
+    "no_camera": {
+      "n": 1200,
+      "correct": 4,
+      "accuracy": 0.0033333333333333335,
+      "camera_accuracy": 0.004166666666666667,
+      "object_accuracy": 0.0033333333333333335,
+      "macro_f1": 0.006595340094422102,
+      "balanced_accuracy": 0.0033333333333333335,
+      "parse_failures": 1195,
+      "per_source": {
+        "ADT-LiteOffice": {
+          "n": 480,
+          "accuracy": 0.008333333333333333
+        },
+        "AV2": {
+          "n": 480,
+          "accuracy": 0.0
+        },
+        "HOT3D": {
+          "n": 66,
+          "accuracy": 0.0
+        },
+        "TACO-V1-allocentric": {
+          "n": 174,
+          "accuracy": 0.0
+        }
+      },
+      "source_macro_accuracy": 0.0020833333333333333,
+      "per_state": {
+        "neither": {
+          "support": 300,
+          "recall": 0.0033333333333333335,
+          "precision": 1.0,
+          "f1": 0.006644518272425249
+        },
+        "camera_only": {
+          "support": 300,
+          "recall": 0.0,
+          "precision": 0,
+          "f1": 0.0
+        },
+        "object_only": {
+          "support": 300,
+          "recall": 0.0,
+          "precision": 0,
+          "f1": 0.0
+        },
+        "both": {
+          "support": 300,
+          "recall": 0.01,
+          "precision": 0.75,
+          "f1": 0.019736842105263157
+        }
+      },
+      "confusion": {
+        "neither": {
+          "neither": 1,
+          "camera_only": 0,
+          "object_only": 0,
+          "both": 0,
+          "__invalid__": 299
+        },
+        "camera_only": {
+          "neither": 0,
+          "camera_only": 0,
+          "object_only": 0,
+          "both": 1,
+          "__invalid__": 299
+        },
+        "object_only": {
+          "neither": 0,
+          "camera_only": 0,
+          "object_only": 0,
+          "both": 0,
+          "__invalid__": 300
+        },
+        "both": {
+          "neither": 0,
+          "camera_only": 0,
+          "object_only": 0,
+          "both": 3,
+          "__invalid__": 297
+        }
+      },
+      "weights_unchanged": true,
+      "protocol": "four-field generate then strict parse; fixed R endpoint",
+      "seconds_this_attempt": 2344.4396756514907
+    },
+    "no_object": {
+      "n": 1200,
+      "correct": 572,
+      "accuracy": 0.4766666666666667,
+      "camera_accuracy": 0.9716666666666667,
+      "object_accuracy": 0.4925,
+      "macro_f1": 0.3581639559014979,
+      "balanced_accuracy": 0.4766666666666667,
+      "parse_failures": 3,
+      "per_source": {
+        "ADT-LiteOffice": {
+          "n": 480,
+          "accuracy": 0.5625
+        },
+        "AV2": {
+          "n": 480,
+          "accuracy": 0.5645833333333333
+        },
+        "HOT3D": {
+          "n": 66,
+          "accuracy": 0.4696969696969697
+        },
+        "TACO-V1-allocentric": {
+          "n": 174,
+          "accuracy": 0.0
+        }
+      },
+      "source_macro_accuracy": 0.39919507575757573,
+      "per_state": {
+        "neither": {
+          "support": 300,
+          "recall": 0.9,
+          "precision": 0.48300536672629696,
+          "f1": 0.6286379511059371
+        },
+        "camera_only": {
+          "support": 300,
+          "recall": 0.9,
+          "precision": 0.47619047619047616,
+          "f1": 0.6228373702422145
+        },
+        "object_only": {
+          "support": 300,
+          "recall": 0.01,
+          "precision": 0.23076923076923078,
+          "f1": 0.019169329073482427
+        },
+        "both": {
+          "support": 300,
+          "recall": 0.09666666666666666,
+          "precision": 0.5,
+          "f1": 0.16201117318435754
+        }
+      },
+      "confusion": {
+        "neither": {
+          "neither": 270,
+          "camera_only": 19,
+          "object_only": 10,
+          "both": 0,
+          "__invalid__": 1
+        },
+        "camera_only": {
+          "neither": 0,
+          "camera_only": 270,
+          "object_only": 0,
+          "both": 29,
+          "__invalid__": 1
+        },
+        "object_only": {
+          "neither": 287,
+          "camera_only": 10,
+          "object_only": 3,
+          "both": 0,
+          "__invalid__": 0
+        },
+        "both": {
+          "neither": 2,
+          "camera_only": 268,
+          "object_only": 0,
+          "both": 29,
+          "__invalid__": 1
+        }
+      },
+      "weights_unchanged": true,
+      "protocol": "four-field generate then strict parse; fixed R endpoint",
+      "seconds_this_attempt": 2127.6632500384003
+    }
+  },
+  "paired_contrasts": {
+    "no_camera": {
+      "full_minus_ablation": 0.8375,
+      "group_bootstrap_95pct": [
+        0.8066382895159562,
+        0.8690133844557482
+      ],
+      "resamples": 2000,
+      "note": "source-stratified collection-group bootstrap; single training seed, not training variance"
+    },
+    "no_object": {
+      "full_minus_ablation": 0.3641666666666667,
+      "group_bootstrap_95pct": [
+        0.31281116779931384,
+        0.4182438456001278
+      ],
+      "resamples": 2000,
+      "note": "source-stratified collection-group bootstrap; single training seed, not training variance"
+    }
+  }
+}

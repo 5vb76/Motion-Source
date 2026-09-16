@@ -1,0 +1,23 @@
+{
+  "benchmark": "general_motion_benchmark_v2",
+  "train_manifest": "/root/story2_camera_object_motion/data/benchmarks/general_motion_benchmark_v2/release/train.jsonl",
+  "val_manifest": "/root/story2_camera_object_motion/data/benchmarks/general_motion_benchmark_v2/release/val.jsonl",
+  "test_manifest": "/root/story2_camera_object_motion/data/benchmarks/general_motion_benchmark_v2/release/test.jsonl",
+  "train_sampling_weights": "/root/story2_camera_object_motion/data/benchmarks/general_motion_benchmark_v2/release/train_sampling_weights.jsonl",
+  "loader": "/root/story2_camera_object_motion/data/benchmarks/general_motion_benchmark_v2/scripts/benchmark_loader.py",
+  "loader_function": "load_input",
+  "model_input_keys": [
+    "frames",
+    "target_boxes_xyxy",
+    "timestamps_ns",
+    "prompt"
+  ],
+  "supervision_keys": [
+    "camera_moving",
+    "object_moving",
+    "state"
+  ],
+  "trajectory_gt_for_loss_or_audit_only": true,
+  "derive_motion_labels_in_model_forward": false,
+  "test_requires_new_split_retraining": true
+}
